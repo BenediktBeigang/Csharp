@@ -1,5 +1,4 @@
 # Csharp
-My Repo for all C# Projects
 
 Detection 
 is a Debugging Tool developed for an other Project. It can visualize Pointclouds and is my sandbox for testing algorithms in the context of pointclouds.
