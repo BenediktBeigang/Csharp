@@ -1,0 +1,95 @@
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.exe
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.deps.json
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.runtimeconfig.json
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.runtimeconfig.dev.json
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Detection.pdb
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.AssemblyReference.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection_MarkupCompile.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection_MarkupCompile.lref
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.g.resources
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.AssemblyInfoInputs.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.AssemblyInfo.cs
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.CoreCompileInputs.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.CopyComplete
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.pdb
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\obj\Debug\netcoreapp3.1\Detection.genruntimeconfig.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+C:\Users\bened\Desktop\Visual Studio Workspace\Detection\bin\Debug\netcoreapp3.1\DetectionMachineLearning.zip
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\DetectionMachineLearning.zip
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.exe
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.deps.json
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.runtimeconfig.json
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.runtimeconfig.dev.json
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Detection.pdb
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.AssemblyReference.cache
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection_MarkupCompile.cache
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection_MarkupCompile.lref
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.g.resources
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.AssemblyInfoInputs.cache
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.AssemblyInfo.cs
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.CoreCompileInputs.cache
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.csproj.CopyComplete
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.dll
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.pdb
+C:\Users\bened\Meine Ablage\Code\C#\Detection\obj\Debug\netcoreapp3.1\Detection.genruntimeconfig.cache

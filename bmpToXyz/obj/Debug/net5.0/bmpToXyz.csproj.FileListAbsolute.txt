@@ -1,0 +1,16 @@
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.exe
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.deps.json
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.runtimeconfig.json
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.runtimeconfig.dev.json
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.dll
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\ref\bmpToXyz.dll
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\bin\Debug\net5.0\bmpToXyz.pdb
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.csproj.AssemblyReference.cache
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.AssemblyInfoInputs.cache
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.AssemblyInfo.cs
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.csproj.CoreCompileInputs.cache
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.dll
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\ref\bmpToXyz.dll
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.pdb
+C:\Users\bened\Meine Ablage\Code\C#\bmpToXyz\obj\Debug\net5.0\bmpToXyz.genruntimeconfig.cache

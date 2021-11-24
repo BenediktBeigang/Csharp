@@ -1,0 +1,30 @@
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\bin\Debug\Kalaha.exe.config
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\bin\Debug\Kalaha.exe
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\bin\Debug\Kalaha.pdb
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.csprojAssemblyReference.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\MainWindow.g.cs
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\App.g.cs
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha_MarkupCompile.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha_MarkupCompile.lref
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\MainWindow.baml
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.g.resources
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.Properties.Resources.resources
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.csproj.GenerateResource.cache
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.exe
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.pdb
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\bin\Debug\Kalaha.exe.manifest
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\bin\Debug\Kalaha.application
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.exe.manifest
+C:\Users\bened\Desktop\Visual Studio Workspace\Kalaha\obj\Debug\Kalaha.application
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.csproj.AssemblyReference.cache
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\MainWindow.g.cs
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\App.g.cs
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha_MarkupCompile.cache
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha_MarkupCompile.lref
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\MainWindow.baml
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.g.resources
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.Properties.Resources.resources
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.csproj.GenerateResource.cache
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.csproj.CoreCompileInputs.cache
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.exe
+C:\Users\bened\Meine Ablage\Code\C#\Kalaha\obj\Debug\Kalaha.pdb
