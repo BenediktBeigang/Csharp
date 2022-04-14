@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2b93c5b_002D29bc_002D485e_002D8237_002D633c0c36bde7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_WhenCalled_ReturnTheSumOfArguments" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.ErrorLoggerTests.Log_ValidError_RaisedErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.FizzBuzzTests.GetOutput_CallingFunction_ReturnsCorrectString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.DemeritPointCalculatorTests.CalculateDemeritPoints_Speeds_ReturnsDemeritPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.StackTests.Push_WhenCalled_AddItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A988605C-524E-4709-B181-D8C91825900E::net6.0::TestNinja.UnitTests.StackTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
